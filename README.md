@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Building a Multi-Platform Wellness Content Recommendation System Using Machine Learning](https://omdena.com/projects/building-a-multi-platform-wellness-content-delivery-system/)
 
-- 🌱 I’m currently learning **R Programming**
+- 🌱 I’m currently learning **PowerBi**
 
 - 📫 How to reach me **hannahkwirikia@gmail.com**
 
