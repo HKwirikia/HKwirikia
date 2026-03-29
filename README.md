@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nyambura Kwirikia</h1>
-<h3 align="center">A passionate data analyst passionate about data. I come from Kenya</h3>
+<h3 align="center">A passionate data analyst interested in transitioning to data engineering. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkwirikia&label=Profile%20views&color=0e75b6&style=flat" alt="hkwirikia" /> </p>
 
