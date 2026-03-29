@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 📫 How to reach me **hannahkwirikia@gmail.com**
+- 📫 How to reach me **hannahkwirikia@gmail.com**, linkedin.com/in/hannahkwirikia/
 
 - ⚡ Fun fact **I can stare at the sunset for a whole 30 minutes.**
 
