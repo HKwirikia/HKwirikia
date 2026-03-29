@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hannah Kwirikia</h1>
-<h3 align="center">A passionate junior data scientist from Kenya</h3>
+<h3 align="center">A passionate data analyst passionate about data. I come from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hkwirikia&label=Profile%20views&color=0e75b6&style=flat" alt="hkwirikia" /> </p>
 
-- 🔭 I’m currently working on [Building a Multi-Platform Wellness Content Recommendation System Using Machine Learning](https://omdena.com/projects/building-a-multi-platform-wellness-content-delivery-system/)
+- 🔭 I’m currently enrolled at LuxDev
 
-- 🌱 I’m currently learning **PowerBi**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 📫 How to reach me **hannahkwirikia@gmail.com**
 
-- ⚡ Fun fact **I love salsa.**
+- ⚡ Fun fact **I can stare at the sunset for a whole 30 minutes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
